@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/prosupplier/static/css/main.9597b845.css",
+    "main.js": "/prosupplier/static/js/main.df5405f3.js",
+    "index.html": "/prosupplier/index.html",
+    "main.9597b845.css.map": "/prosupplier/static/css/main.9597b845.css.map",
+    "main.df5405f3.js.map": "/prosupplier/static/js/main.df5405f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9597b845.css",
+    "static/js/main.df5405f3.js"
+  ]
+}
